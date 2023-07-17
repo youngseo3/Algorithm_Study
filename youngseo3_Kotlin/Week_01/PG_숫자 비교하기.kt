@@ -1,7 +1,7 @@
 package kr.ac.tukorea.Algorithm_Study.youngseo3_Kotlin.Week_01
 
 
-class Compare {
+class Solution {
     fun solution(num1: Int, num2: Int): Int {
         return if(num1 == num2) {
             1
@@ -12,7 +12,7 @@ class Compare {
 }
 
 fun main() {
-    var result = Compare()
-    println(result.solution(3,4))
+    var result = Solution()
+    println(result.solution(4,4))
 
 }

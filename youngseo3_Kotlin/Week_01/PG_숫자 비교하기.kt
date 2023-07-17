@@ -1,0 +1,18 @@
+package kr.ac.tukorea.Algorithm_Study.youngseo3_Kotlin.Week_01
+
+
+class Compare {
+    fun solution(num1: Int, num2: Int): Int {
+        return if(num1 == num2) {
+            1
+        } else {
+            -1
+        }
+    }
+}
+
+fun main() {
+    var result = Compare()
+    println(result.solution(3,4))
+
+}

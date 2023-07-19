@@ -4,7 +4,7 @@
 
 | Nickname | [@youngseo3](https://github.com/youngseo3) | [@SeungEEE](https://github.com/SeungEEE) |
 | :------: |:--------------------------------------------:|:--------------------------------:|
-| Language |                    Kotlin                    |              Kotlin              |
+| Language |                    Kotlin                    |              Java                |
 
 <br/>
 

@@ -9,6 +9,8 @@ class Solution {
         var count = 0
         for(i in order.toString()) {
             if(i == '3' || i == '6' || i == '9') count ++
+            // if("[369]".toRegex().matches(i.toString())) count ++
+            // "3|6|9"라 써도 됨
         }
         return count
     }

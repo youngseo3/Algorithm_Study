@@ -18,14 +18,14 @@
 
 |   주차    |      날짜       |      문제 유형      |                                                                     문제                                                                     | 난이도 |  비고  |
 |:-------:|:-------------:|:---------------:|:------------------------------------------------------------------------------------------------------------------------------------------:|:---:|:----:|
-| week_06 | 08-21 ~ 08-27 | 프로그레머스 코딩테스트 입문 | <p align=left> 1️⃣ [100 문제 중 나머지 문제 풀기](https://school.programmers.co.kr/learn/challenges/beginner?order=acceptance_desc&languages=kotlin) | Lv0 | <br> |
+| week_07 | 08-28 ~ 09-03 | 프로그레머스 코딩테스트 입문 | <p align=left> 1️⃣ [100 문제 중 나머지 문제 풀기](https://school.programmers.co.kr/learn/challenges/beginner?order=acceptance_desc&languages=kotlin) | Lv0 | <br> |
 
 ### Rules
 ### 1. ~~하루 4문제씩 풀기 -> 매일 풀면 25일이 걸림.~~
 ### 2. ~~본인 일정이 있을 수 있으므로 여유있게 4주(28일)안에 풀기~~
 ### 3. ~~현재 7/24 ~ 8/11까지 프로젝트 진행중이므로 바빠서 규칙수정 -> 다음 주 일요일 8/20까지 기간 늘림~~
-### 4. 다 못해서 기한 늘려서 8/27까지 하기.
-
+### 4. ~~다 못해서 기한 늘려서 8/27까지 하기.~~
+### 5. 노트북 고장 이슈 및 개강 전 약속 등
 <br/>
 
 
@@ -48,12 +48,13 @@
 
 <br>
 
-|   주차    |      날짜       |      문제 유형      |                                                                       문제                                                                       | 난이도 | youngseo3 | SeungEEE  |
-|:-------:|:-------------:|:---------------:|:----------------------------------------------------------------------------------------------------------------------------------------------:|:---:|:---------:|:---------:|
-| week_01 | 07-17 ~ 07-23 | 프로그레머스 코딩테스트 입문 | <p align=left> 1️⃣ [100 문제 중 1 ~ 28 문제 풀기](https://school.programmers.co.kr/learn/challenges/beginner?order=acceptance_desc&languages=kotlin)  | Lv0 |    1️⃣    |   1️⃣️    |
-| week_02 | 07-24 ~ 07-30 | 프로그레머스 코딩테스트 입문 | <p align=left> 1️⃣ [100 문제 중 29 ~ 56 문제 풀기](https://school.programmers.co.kr/learn/challenges/beginner?order=acceptance_desc&languages=kotlin) | Lv0 |    1️⃣    |    🔺     |
-| week_03 | 07-31 ~ 08-06 | 프로그레머스 코딩테스트 입문 | <p align=left> 1️⃣ [100 문제 중 57 ~ 84 문제 풀기](https://school.programmers.co.kr/learn/challenges/beginner?order=acceptance_desc&languages=kotlin) | Lv0 |     ❌     |     ❌     |
-| week_04 | 08-07 ~ 08-13 | 프로그레머스 코딩테스트 입문 |   <p align=left> 1️⃣ [100 문제 중 나머지 문제 풀기](https://school.programmers.co.kr/learn/challenges/beginner?order=acceptance_desc&languages=kotlin)   | Lv0 |     ❌     |     ❌     |
-| week_05 | 08-14 ~ 08-20 | 프로그레머스 코딩테스트 입문 |   <p align=left> 1️⃣ [100 문제 중 나머지 문제 풀기](https://school.programmers.co.kr/learn/challenges/beginner?order=acceptance_desc&languages=kotlin)   | Lv0 |     1️⃣      |     1️⃣      |
+|   주차    |      날짜       |      문제 유형      |                                                                       문제                                                                       | 난이도 | youngseo3 | SeungEEE |
+|:-------:|:-------------:|:---------------:|:----------------------------------------------------------------------------------------------------------------------------------------------:|:---:|:---------:|:--------:|
+| week_01 | 07-17 ~ 07-23 | 프로그레머스 코딩테스트 입문 | <p align=left> 1️⃣ [100 문제 중 1 ~ 28 문제 풀기](https://school.programmers.co.kr/learn/challenges/beginner?order=acceptance_desc&languages=kotlin)  | Lv0 |    1️⃣    |   1️⃣️   |
+| week_02 | 07-24 ~ 07-30 | 프로그레머스 코딩테스트 입문 | <p align=left> 1️⃣ [100 문제 중 29 ~ 56 문제 풀기](https://school.programmers.co.kr/learn/challenges/beginner?order=acceptance_desc&languages=kotlin) | Lv0 |    1️⃣    |    🔺    |
+| week_03 | 07-31 ~ 08-06 | 프로그레머스 코딩테스트 입문 | <p align=left> 1️⃣ [100 문제 중 57 ~ 84 문제 풀기](https://school.programmers.co.kr/learn/challenges/beginner?order=acceptance_desc&languages=kotlin) | Lv0 |     ❌     |     ❌    |
+| week_04 | 08-07 ~ 08-13 | 프로그레머스 코딩테스트 입문 |   <p align=left> 1️⃣ [100 문제 중 나머지 문제 풀기](https://school.programmers.co.kr/learn/challenges/beginner?order=acceptance_desc&languages=kotlin)   | Lv0 |     ❌     |     ❌    |
+| week_05 | 08-14 ~ 08-20 | 프로그레머스 코딩테스트 입문 |   <p align=left> 1️⃣ [100 문제 중 나머지 문제 풀기](https://school.programmers.co.kr/learn/challenges/beginner?order=acceptance_desc&languages=kotlin)   | Lv0 |     1️⃣      |     1️⃣     |
+| week_06 | 08-21 ~ 08-27 | 프로그레머스 코딩테스트 입문 | <p align=left> 1️⃣ [100 문제 중 나머지 문제 풀기](https://school.programmers.co.kr/learn/challenges/beginner?order=acceptance_desc&languages=kotlin) | Lv0 |     1️⃣      |     1️⃣     |
 
 <br/>

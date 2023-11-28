@@ -9,15 +9,27 @@
 /* Begin PBXFileReference section */
 		5C31AC782AF8AD9A0019711D /* PG_12926.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = PG_12926.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		5C31AC792AF8C04B0019711D /* PG_81301.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = PG_81301.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		5C31AC7A2AF8C65E0019711D /* PG_133499.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = PG_133499.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		5C440B372AF8EDE2000B8A91 /* PG_86491.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = PG_86491.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 /* End PBXFileReference section */
 
 /* Begin PBXGroup section */
 		5C31AC712AF8AC750019711D = {
 			isa = PBXGroup;
 			children = (
+				5C31AC7B2AF8C6780019711D /* Week01 */,
+			);
+			sourceTree = "<group>";
+		};
+		5C31AC7B2AF8C6780019711D /* Week01 */ = {
+			isa = PBXGroup;
+			children = (
+				5C31AC7A2AF8C65E0019711D /* PG_133499.playground */,
 				5C31AC792AF8C04B0019711D /* PG_81301.playground */,
 				5C31AC782AF8AD9A0019711D /* PG_12926.playground */,
+				5C440B372AF8EDE2000B8A91 /* PG_86491.playground */,
 			);
+			path = Week01;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
